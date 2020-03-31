@@ -1,44 +1,68 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "nombre": "Sebastian",
+      "carrera": "Informatica",
+      "semestre": "9",
+      "historia": "Antes Administrador, ahora informatico",
+      "imagen": "https://images.generated.photos/SZ43KV-Oo26-wpPUM7zDLo19CpGFH0eBnjegQFtvaUc/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA4/NTUzMzguanBn.jpg"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "nombre": "Juan David",
+      "carrera": "Empresas",
+      "semestre": "10",
+      "historia": "Siempre Bravuras",
+      "imagen": "https://images.generated.photos/1M5y2b6d0SU7RJ50S9pLdzB2yudegQ2xVxivkJIaIC4/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA5/OTk3ODAuanBn.jpg"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "nombre": "Claudia",
+      "carrera": "Odontologia",
+      "semestre": "3",
+      "historia": "Casada con Chileno",
+      "imagen": "https://images.generated.photos/DQ4EKrAPT-e5slG3cXmSw20uJ2AwwhOzJeVnpI9tlMA/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA5/OTk4MDcuanBn.jpg"
     },
     {
-      "id": 4,
-      "title": "Post 4"
+      "nombre": "Bruno",
+      "carrera": "Pediatria",
+      "semestre": "1",
+      "historia": "Un amigo leal",
+      "imagen": "https://images.generated.photos/PYqJjdWKLiLWW3R0pVQGZRQ6oZWQ5qdPMLkwLCttkJs/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA5/OTUwMjkuanBn.jpg"
     },
     {
-      "id": 5,
-      "title": "Post 5"
+      "nombre": "Laura",
+      "carrera": "Admnistración y Servicio",
+      "semestre": "10",
+      "historia": "Enoviada con Juan David",
+      "imagen": "https://images.generated.photos/GxzBzL7MtUEemhizKJXjIpV327R5y0SckdCou21jn1U/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yy/XzAyMDI0NzguanBn.jpg"
     },
     {
-      "id": 6,
-      "title": "Post 6"
+      "nombre": "Jesus of Suburbia",
+      "carrera": "Musica",
+      "semestre": "N/A",
+      "historia": "Idiota americano",
+      "imagen": "https://images.generated.photos/EWV-zLc5-iWQ8pMTKLsTd3L5TNCafscujeCIYmEMkuQ/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yy/XzA4MjExMjUuanBn.jpg"
     },
     {
-      "id": 7,
-      "title": "Post 7"
+      "nombre": "Carlos Ballen",
+      "carrera": "Ingles",
+      "semestre": "6",
+      "historia": "Tiene exceso de bigote",
+      "imagen": "https://images.generated.photos/DzhyqGgdtZFuKl01KszjW2PKmc1f3HxC9Agt-Efiz-c/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA1/NTI3NzIuanBn.jpg"
     },
     {
-      "id": 8,
-      "title": "Post 8"
+      "nombre": "Chad",
+      "carrera": "Musica",
+      "semestre": "3",
+      "historia": "Amigo de Jesus",
+      "imagen": "https://images.generated.photos/ww3Ht-Tf6Zh17fJYFQEJeNWcqwUMhVlAVykzQH0Uu90/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yy/XzAwMDIzOTYuanBn.jpg"
     },
     {
-      "id": 9,
-      "title": "Post 9"
-    },
-    {
-      "id": 10,
-      "title": "Post 10"
+      "nombre": "Whatshername",
+      "carrera": "Musica",
+      "semestre": "9",
+      "historia": "Novia de Jesus",
+      "imagen": "https://images.generated.photos/UxbWyb3MSxphmS78dmVqoKEWJAJn4gBHPCrHohLLoZA/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA5/OTk3NDQuanBn.jpg"
     }
+
   ]
 }
